@@ -4,6 +4,6 @@
 * Install [Docker]
 
 
-* $docker build -t mywebapp .
-* $docker run -p 8082:8080 mywebapp
-* http://localhost:8082
+* $docker build -t image_war.
+* $docker run -p 8082:8080 image_wa
+* http://localhost:8082/sample
