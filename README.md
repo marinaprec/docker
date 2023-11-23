@@ -1,10 +1,9 @@
-# docker-tomcat-satylearning
-A basic tutorial on running a web app on Tomcat using Docker - SATYLearning - Subscribe my youtube channel
+# docker-war
 
 # Steps
-* Install [Docker](https://docs.docker.com/install/).
-* Clone this repository - $git clone https://github.com/sathees-saty/docker-tomcat-satylearning.git
-* cd docker-tomcat-satylearning # from your root directory
-* $docker build -t satymywebapp .
-* $docker run -p 8082:8080 satymywebapp
+* Install [Docker]
+* Clone this repository - $git clone [https://github.com/sathees-saty/docker-tomcat-satylearning.git](https://github.com/marinaprec/docker_war)
+
+* $docker build -t mywebapp .
+* $docker run -p 8082:8080 mywebapp
 * http://localhost:8082
