@@ -5,5 +5,5 @@
 
 
 * $docker build -t image_war.
-* $docker run -p 8082:8080 image_wa
+* $docker run -p 8082:8080 image_war
 * http://localhost:8082/sample
