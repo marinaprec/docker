@@ -1,0 +1,9 @@
+#A COMPLETAR!
+FROM 
+LABEL 
+
+WORKDIR /app
+
+COPY 
+
+CMD 
