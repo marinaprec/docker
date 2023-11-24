@@ -1,9 +1,2 @@
-# docker-war
+# docker-despliegues
 
-# Steps
-* Install [Docker]
-
-
-* $docker build -t image_war.
-* $docker run -p 8082:8080 image_war
-* http://localhost:8082/sample
