@@ -1,8 +1,10 @@
 # A COMPLETAR!!!
 
 FROM 
-LABEL maintainer=
+LABEL
 
 ADD 
 
 EXPOSE 
+
+CMD 
