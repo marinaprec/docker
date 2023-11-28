@@ -5,6 +5,4 @@ LABEL
 
 ADD 
 
-EXPOSE 
-
-CMD 
+EXPOSE
